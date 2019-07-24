@@ -11,7 +11,7 @@ On the side of the screen you will see a list of "all the things", think all of 
 
 By clicking one particular item in the master list, the application will show more information about that particular item.
 
-In the above example, you see list of courses and when you click on a single course, it shows details for the students in that specific course. The master (list) view remains on the page, even when you are looking at the details for one course.
+In the exabove example, you see list of courses and when you click on a single course, it shows details for the students in that specific course. The master (list) view remains on the page, even when you are looking at the details for one course.
 
 ## Deliverables
 
@@ -20,8 +20,8 @@ In the above example, you see list of courses and when you click on a single cou
 
 
 <!-- **As a user, when the page loads I should see a list of courses retrieved from an API on the left hand side of the screen.** -->
-
-**As a user, when I click the `See Detail` button, the application should reveal more information about that particular class.**
+<!--
+**As a user, when I click the `See Detail` button, the application should reveal more information about that particular class.** -->
 
 **As a user, when looking at the details of a course. I can edit a student's percentage. Clicking the 'Edit' button will save any changes added to the description in the database**
 
