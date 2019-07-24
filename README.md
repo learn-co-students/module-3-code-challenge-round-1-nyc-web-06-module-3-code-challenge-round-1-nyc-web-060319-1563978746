@@ -5,7 +5,7 @@
 ![](demo.gif)
 
 
-For this code challenge you will be building out the above interface (frequently referred to as [master-detail interface](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface)). 
+For this code challenge you will be building out the above interface (frequently referred to as [master-detail interface](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface)).
 
 On the side of the screen you will see a list of "all the things", think all of your emails or messages or YouTube search results. There will usually be some information about that thing, the email subject and sender for example, but not all of the information that item contains (i.e. not the whole body of the email).
 
@@ -19,7 +19,7 @@ In the above example, you see list of courses and when you click on a single cou
 
 
 
-**As a user, when the page loads I should see a list of courses retrieved from an API on the left hand side of the screen.**
+<!-- **As a user, when the page loads I should see a list of courses retrieved from an API on the left hand side of the screen.** -->
 
 **As a user, when I click the `See Detail` button, the application should reveal more information about that particular class.**
 
@@ -45,7 +45,7 @@ The API endpoint we need to retrieve all the courses is a conventional RESTful r
 * **Route:** GET `https://warm-shore-17060.herokuapp.com/api/v1/users/1/courses`
 
 
-To see the students for a specific course you'll need to make a GET request 
+To see the students for a specific course you'll need to make a GET request
 * **Route:** GET `https://warm-shore-17060.herokuapp.com/api/v1/users/1/courses/:id`
 
 To update a students percentage you'll need to make a PATCH request
