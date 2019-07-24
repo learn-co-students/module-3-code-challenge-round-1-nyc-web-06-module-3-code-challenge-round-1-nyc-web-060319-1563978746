@@ -19,9 +19,9 @@ In the above example, you see list of courses and when you click on a single cou
 
 
 
-**As a user, when the page loads I should see a list of courses retrieved from an API on the left hand side of the screen.**
+<!-- **As a user, when the page loads I should see a list of courses retrieved from an API on the left hand side of the screen.** -->
 
-**As a user, when I click the `See Detail` button, the application should reveal more information about that particular class.**
+<!-- **As a user, when I click the `See Detail` button, the application should reveal more information about that particular class.** -->
 
 **As a user, when looking at the details of a course. I can edit a student's percentage. Clicking the 'Edit' button will save any changes added to the description in the database**
 
